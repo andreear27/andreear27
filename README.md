@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @andreear27
 - 👀 I’m interested in coding, testing, psychology, learning 
-- 🌱 I’m currently learning automation testing with Pthon
+- 🌱 I’m currently learning automation testing with Python
 - 💞️ I’m looking to collaborate on different projects 
 - 📫 How to reach me: razorea.andreea@gmail.com
 
